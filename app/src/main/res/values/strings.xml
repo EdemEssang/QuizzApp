@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Current Affairs</string>
+    <!--resources for the first question-->
+    <string name="text_view1">Which of the following is a world Football governing body?</string>
+    <string name="radio_btn1">NFA</string>
+    <string name="radio_btn2">FIFA</string>
+
+
+    <!--name of the candidate-->
+    <string name="edit_txt_hint">Input Your Name Here!</string>
+
+    <!--string resources for the second question-->
+    <string name="text_view2">Which of these is a state in  Nigeria?</string>
+    <string name="text_view3">a)</string>
+    <string name="btn1">Warri</string>
+    <string name="number_one_button">Answer Warri</string>
+    <string name="text_view4">b)</string>
+    <string name="btn2">Akwa Ibom</string>
+    <string name="number_two_button">Answer Akwa Ibom</string>
+    <string name="text_view5">c)</string>
+    <string name="btn3">Uyo</string>
+    <string name="number_three_button">Answer Uyo</string>
+
+    <!--resources for the third question-->
+    <string name="text_view6">The following are countries in Africa</string>
+    <string name="chk_box1">Nigeria</string>
+    <string name="chk_box2">Spain</string>
+    <string name="chk_box3">Somalia</string>
+    <string name="chk_box4">Benin</string>
+
+
+    <!--string resources for the fourth question-->
+    <string name="text_view8">Which of these is not a Nigerian Government Parastatal</string>
+    <string name="btn4">Fhi360</string>
+    <string name="number_four_button">Answer Fhi360</string>
+    <string name="btn5">EFCC</string>
+    <string name="number_five_button">Answer efcc</string>
+    <string name="btn6">FCC</string>
+    <string name="number_six_button">Answer fcc</string>
+
+
+    <!--string resources for the fifth question-->
+    <string name="text_view9">Which region declared its independence from Nigeria in 1967 and was unsuccessful</string>
+    <string name="btn7">Calabar</string>
+    <string name="number_seventh_button">Answer Calabar</string>
+    <string name="btn8">Biafra</string>
+    <string name="number_eighth_button">Answer Biafra</string>
+    <string name="btn9">Anambra</string>
+    <string name="number_ninth_button">Answer Anambra</string>
+
+
+    <!--resources for the sixth question-->
+    <string name="text_view10">The major religions in Nigeria are Islam and Hinduism</string>
+    <string name="radio_btn3">True</string>
+    <string name="radio_btn4">False</string>
+
+    <!--resources for the seventh question-->
+    <string name="text_view11">The Longest and largest river in Nigeria is River Niger</string>
+    <string name="radio_btn5">True</string>
+    <string name="radio_btn6">False</string>
+
+    <!--resources for the eight question-->
+    <string name="text_view12">What is the Capital of Nigeria?</string>
+    <string name="radio_btn7">Ojuelegba</string>
+    <string name="radio_btn8">Abuja</string>
+    <string name="radio_btn9">Benin</string>
+    <!--resources for the ninth question-->
+    <string name="text_view13">In which state of the federation of Nigeria is Benin city?</string>
+    <string name="radio_btn10">Delta State</string>
+    <string name="radio_btn11">Edo State</string>
+    <string name="radio_btn12">Ondo State</string>
+    <string name="text_view14">Nigeria is on</string>
+    <string name="radio_btn13">The Gulf of Gabes</string>
+    <string name="radio_btn14">The Gulf of Guinea</string>
+    <string name="radio_btn15">The Gulf of Sidra</string>
+    <!--resources for the tenth question-->
+    <string name="text_view15">In which state of the federation of Nigeria is Uyo?</string>
+    <string name="radio_btn16">Plateau State</string>
+    <string name="radio_btn17">Akwa Ibom State</string>
+    <string name="radio_btn18">Kano State</string>
+    <!--resources for reset button-->
+    <string name="reset">RESET</string>
+    <string name="number_tenth_button">show reset</string>
+    <!--resources for submit button-->
+    <string name="submit">SUBMIT</string>
+    <string name="number_eleventh_button">show submit</string>
+
+
+</resources>
